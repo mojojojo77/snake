@@ -1,2 +1,3 @@
 # snake
-Snake game which solves itself
+
+Coded in processing
